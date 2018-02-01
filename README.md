@@ -1,1 +1,4 @@
-# etsdb
+## etsdb
+
+Econometric Time Series Database
+
